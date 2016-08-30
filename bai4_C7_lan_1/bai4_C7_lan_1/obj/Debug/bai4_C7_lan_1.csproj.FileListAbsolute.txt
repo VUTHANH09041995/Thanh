@@ -4,3 +4,6 @@ E:\LAPTRINH.NET\bai4_C7_lan_1\bai4_C7_lan_1\bin\Debug\bai4_C7_lan_1.pdb
 E:\LAPTRINH.NET\bai4_C7_lan_1\bai4_C7_lan_1\obj\Debug\bai4_C7_lan_1.csprojResolveAssemblyReference.cache
 E:\LAPTRINH.NET\bai4_C7_lan_1\bai4_C7_lan_1\obj\Debug\bai4_C7_lan_1.exe
 E:\LAPTRINH.NET\bai4_C7_lan_1\bai4_C7_lan_1\obj\Debug\bai4_C7_lan_1.pdb
+C:\Users\Thanh\Documents\GitHub\Thanh\bai4_C7_lan_1\bai4_C7_lan_1\bin\Debug\bai4_C7_lan_1.exe.config
+C:\Users\Thanh\Documents\GitHub\Thanh\bai4_C7_lan_1\bai4_C7_lan_1\obj\Debug\bai4_C7_lan_1.exe
+C:\Users\Thanh\Documents\GitHub\Thanh\bai4_C7_lan_1\bai4_C7_lan_1\obj\Debug\bai4_C7_lan_1.pdb
